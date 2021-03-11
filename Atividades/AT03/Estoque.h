@@ -1,0 +1,1 @@
+int qtdProdutosDisponiveis(int idProduto);
